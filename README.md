@@ -133,12 +133,7 @@ where reliability, productivity, and intelligent testing converge.
 and collaboration opportunities.
 </p>
 
-<hr/>
 
-<h3 align="center">⭐ Thanks for visiting my GitHub profile!</h3>
-<p align="center"><b>Let’s build quality — intelligently.</b></p>
-
-<hr/>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -202,3 +197,10 @@ and collaboration opportunities.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="32" title="macOS"/>
 
 </div>
+
+<hr/>
+
+<h3 align="center">⭐ Thanks for visiting my GitHub profile!</h3>
+<p align="center"><b>Let’s build quality — intelligently.</b></p>
+
+<hr/>
