@@ -37,11 +37,11 @@ where reliability, productivity, and intelligent testing converge.
 <h2>🧠 What I Do</h2>
 
 <ul>
-  <li>UI automation using modern, maintainable frameworks</li>
-  <li>API automation with strong validations and data-driven strategies</li>
-  <li>CI/CD integration for continuous and fast quality feedback</li>
-  <li>Automation framework architecture (POM, BDD, Hybrid)</li>
-  <li>GenAI-assisted testing for smarter coverage and faster delivery</li>
+  <li>✅ UI automation using modern, maintainable frameworks</li>
+  <li>✅ API automation with strong validations and data-driven strategies</li>
+  <li>✅ CI/CD integration for continuous and fast quality feedback</li>
+  <li>✅ Automation framework architecture (POM, BDD, Hybrid)</li>
+  <li>✅ GenAI-assisted testing for smarter coverage and faster delivery</li>
 </ul>
 
 <hr/>
