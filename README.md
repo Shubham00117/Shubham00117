@@ -44,64 +44,30 @@ where reliability, productivity, and intelligent testing converge.
 ## 🛠️ Tech Stack
 
 ### 🔹 Programming Languages
-<p>
-  <span style="color:#f89820;"><b>Java</b></span> &nbsp;|&nbsp;
-  <span style="color:#3178c6;"><b>TypeScript</b></span> &nbsp;|&nbsp;
-  <span style="color:#f7df1e;"><b>JavaScript</b></span>
-</p>
-
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### 🔹 UI Automation
-<p>
-  <span style="color:#43b02a;"><b>Selenium WebDriver</b></span> &nbsp;|&nbsp;
-  <span style="color:#2ead33;"><b>Playwright</b></span> &nbsp;|&nbsp;
-  <span style="color:#17202c;"><b>Cypress</b></span> &nbsp;|&nbsp;
-  <span style="color:#23d96c;"><b>Cucumber (BDD)</b></span>
-</p>
-
----
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 
 ### 🔹 API Testing
-<p>
-  <span style="color:#3c873a;"><b>Rest Assured</b></span> &nbsp;|&nbsp;
-  <span style="color:#ff6c37;"><b>Postman</b></span> &nbsp;|&nbsp;
-  <span style="color:#85ea2d;"><b>Swagger</b></span>
-</p>
+![Rest Assured](https://img.shields.io/badge/Rest%20Assured-Java-blue)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
----
+### 🔹 CI/CD & Build
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
-### 🔹 CI/CD & Build Tools
-<p>
-  <span style="color:#d24939;"><b>Jenkins</b></span> &nbsp;|&nbsp;
-  <span style="color:#2088ff;"><b>GitHub Actions</b></span> &nbsp;|&nbsp;
-  <span style="color:#c71a36;"><b>Maven</b></span>
-</p>
-
----
-
-### 🔹 Version Control
-<p>
-  <span style="color:#f05032;"><b>Git</b></span> &nbsp;|&nbsp;
-  <span style="color:#000000;"><b>GitHub</b></span>
-</p>
-
----
-
-### 🔹 Databases & Test Management
-<p>
-  <span style="color:#4479a1;"><b>MySQL</b></span> &nbsp;|&nbsp;
-  <span style="color:#0052cc;"><b>Jira</b></span>
-</p>
-
----
-
-### 🔹 GenAI for QA
-<p>
-  <span style="color:#10a37f;"><b>ChatGPT / LLMs</b></span> &nbsp;|&nbsp;
-  <span style="color:#000000;"><b>GitHub Copilot</b></span> &nbsp;|&nbsp;
-  <span style="color:#ff6d00;"><b>n8n (AI Workflows)</b></span>
-</p>
+### 🔹 AI / GenAI for QA
+![ChatGPT](https://img.shields.io/badge/ChatGPT-QA%20Productivity-412991)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-AI%20Coding-black)
+![n8n](https://img.shields.io/badge/n8n-AI%20Workflows-FF6D00)
+![LLM](https://img.shields.io/badge/Private%20LLMs-Offline%20AI-blue)
 <h2>🤖 GenAI for QA Automation</h2>
 
 <ul>
