@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <b>Shubham Shinde</b></h1>
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Shubham00117&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 <h3 align="center">
