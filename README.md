@@ -1,4 +1,7 @@
 <h1 align="center">👋 Hi, I'm <b>Shubham Shinde</b></h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shubham00117&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 <h3 align="center">
 QA Automation Engineer | GenAI-Driven Testing | Engineering Quality at Scale
 </h3>
@@ -121,20 +124,6 @@ where reliability, productivity, and intelligent testing converge.
 
 <hr/>
 
-<h2>📬 Let’s Connect</h2>
-
-<ul>
-  <li>📧 Email: <b>shubhamshinde5150@gmail.com</b></li>
-  <li>💻 GitHub: <a href="https://github.com/Shubham00117">github.com/Shubham00117</a></li>
-</ul>
-
-<p>
-💬 Open to discussions on automation, framework design, GenAI in testing,
-and collaboration opportunities.
-</p>
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
@@ -197,6 +186,22 @@ and collaboration opportunities.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="32" title="macOS"/>
 
 </div>
+
+
+<h2>📬 Let’s Connect</h2>
+
+<ul>
+  <li>📧 Email: <b>shubhamshinde5150@gmail.com</b></li>
+  <li>💻 GitHub: <a href="https://github.com/Shubham00117">github.com/Shubham00117</a></li>
+</ul>
+
+<p>
+💬 Open to discussions on automation, framework design, GenAI in testing,
+and collaboration opportunities.
+</p>
+
+
+
 
 <hr/>
 
