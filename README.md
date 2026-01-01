@@ -111,16 +111,75 @@ where reliability, productivity, and intelligent testing converge.
 
 <hr/>
 
+<hr/>
+
 <h2>📘 Technical Documentation</h2>
 
 <ul>
-  <li>📁 Automation Framework Architecture</li>
-  <li>📁 API Testing Best Practices</li>
-  <li>📁 CI/CD Integration for Automation</li>
-  <li>📁 GenAI for QA – Prompts & Workflows</li>
+  <li>
+    📁 <b>Automation Framework Architecture</b><br/>
+    🔗 <a href="https://github.com/Shubham00117/OpenCartV131.git" target="_blank">
+      OpenCart Automation Framework (Java | Selenium | TestNG | Jenkins)
+    </a><br/>
+    🔗 <a href="https://github.com/Shubham00117/opencart_Cucumber.git" target="_blank">
+      OpenCart BDD Framework (Cucumber | POM | Hybrid)
+    </a>
+  </li>
+
+  <br/>
+
+  <li>
+    📁 <b>API Testing & Automation Best Practices</b><br/>
+    🔗 <a href="https://github.com/Shubham00117/PetStoreAutomation.git" target="_blank">
+      PetStore API Automation (Rest Assured | Postman | Swagger)
+    </a>
+  </li>
+
+  <br/>
+
+  <li>
+    📁 <b>CI/CD Integration for Automation</b><br/>
+    🔗 <a href="https://github.com/Shubham00117/OpenCartV131.git" target="_blank">
+      Jenkins & GitHub Actions Integrated Automation
+    </a>
+  </li>
+
+  <br/>
+
+  <li>
+    📁 <b>Full-Stack Projects</b><br/>
+    🔗 <a href="https://github.com/Shubham00117/LabourLoom-Platform.git" target="_blank">
+      LabourLoom Platform (Enterprise Application)
+    </a><br/>
+    🔗 <a href="https://github.com/Shubham00117/Dating_App_Angular18_With_.NET8.git" target="_blank">
+      Dating App (Angular 18 | .NET 8)
+    </a><br/>
+    🔗 <a href="https://github.com/Shubham00117/skinet.git" target="_blank">
+      Skynet Platform (Modern Web Application)
+    
+  </li>
+  </a><br/>
+  📁 <b>Language</b><br>
+  
+   </a>
+    🔗 <a href="https://drive.google.com/drive/folders/13iWXsRcUZ0rBEC0akxKqm4FrvSLvUq8B?usp=drive_link" target="_blank">
+      Core Java
+    </a>
+      </a><br/>
+  </a>
+    🔗 <a href="https://github.com/Shubham00117/TypeScript.git" target="_blank">
+      TypeScript Concepts & Hands-On Examples
+    </a>
+     
+    
 </ul>
 
-<p><i>All repositories include clear documentation and examples.</i></p>
+<p>
+  <i>📌 Each repository contains structured documentation, real-world examples, and implementation details focused on quality, scalability, and maintainability.</i>
+</p>
+
+<hr/>
+
 
 <hr/>
 
