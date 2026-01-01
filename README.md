@@ -1,117 +1,157 @@
-<h1 align="center">👋 Hi, I'm Shubham Shinde</h1>
-<h3 align="center">🚀 QA Automation Engineer | GenAI-Driven Testing | Framework Builder</h3>
+<!-- ===================== HEADER ===================== -->
+
+<h1 align="center">👋 Hi, I'm <strong>Shubham Shinde</strong></h1>
+
+<h3 align="center">
+QA Automation Engineer | Automation Framework Architect | GenAI for QA
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Automation-Selenium-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Playwright-TypeScript-45b8d8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GenAI-QA-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI/CD-Jenkins-success?style=for-the-badge" />
+  <a href="https://github.com/Shubham00117">
+    <img src="https://img.shields.io/badge/GitHub-Shubham00117-black?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Automation%20Testing-Senior--Mindset-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GenAI%20for%20QA-Future--Ready-success?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧠 About Me
-I’m a **quality-driven QA Automation Engineer** with ~**3 years of experience**, focused on building  
-⚙️ **scalable automation frameworks** and 🤖 **AI-powered testing solutions**.
+## 🙋‍♂️ About Me
 
-I don’t just automate tests —  
-I **engineer confidence into software delivery**.
+**QA Automation Engineer** with ~**3 years of experience** and **PG-DAC (C-DAC)** background, specializing in **UI & API automation**, **CI/CD integration**, and **GenAI-driven testing solutions**.
 
----
-
-## 🔥 What I Deliver
-✅ Clean & maintainable **UI automation frameworks**  
-✅ Reliable **API automation** with strong validations  
-✅ CI/CD-ready automation pipelines  
-✅ **GenAI-powered productivity** for QA teams  
-✅ Instant generation of **test artifacts from requirements**
+I focus on **engineering quality**, not just validating it — designing **scalable, maintainable automation frameworks** that integrate seamlessly into modern DevOps pipelines while leveraging **AI to accelerate QA productivity**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 What I Do / Expertise
 
-### 💻 Languages & Automation
+- ✅ Design and build **end-to-end automation frameworks** (UI + API)
+- 🚀 Implement **CI/CD-ready automation** with Jenkins & GitHub Actions
+- 🧪 Data-driven, BDD, and hybrid framework architectures
+- 🤖 Apply **GenAI & Prompt Engineering** to improve testing efficiency
+- 🛠️ Engineer reusable utilities, reporting, and test infrastructure
+
+---
+
+## 🧰 Tech Stack
+
+### 🔹 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/C%23-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Selenium-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Playwright-45b8d8?style=flat-square" />
-  <img src="https://img.shields.io/badge/TestNG-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cucumber-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</p>
+
+### 🔹 Automation & Testing
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-red?style=flat"/>
+  <img src="https://img.shields.io/badge/Cucumber-BDD-green?style=flat"/>
+</p>
+
+### 🔹 API Automation
+<p>
+  <img src="https://img.shields.io/badge/Rest%20Assured-6DB33F?style=flat"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"/>
+</p>
+
+### 🔹 CI/CD & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"/>
+</p>
+
+### 🔹 AI / GenAI for QA
+<p>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-LLMs-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-AI--Assisted-black?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-QA%20Workflows-purple?style=flat"/>
+  <img src="https://img.shields.io/badge/Offline%20LLMs-Private%20AI-success?style=flat"/>
 </p>
 
 ---
 
-### 🌐 API & Backend Testing
-<p>
-  <img src="https://img.shields.io/badge/Postman-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/RestAssured-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Swagger-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL-MySQL-blue?style=flat-square" />
-</p>
+## 🤖 GenAI for QA Automation
 
----
-
-### 🔄 CI/CD & Collaboration
-<p>
-  <img src="https://img.shields.io/badge/Jenkins-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Maven-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square" />
-</p>
-
----
-
-## 🤖 GenAI & AI-Powered QA (Completed Skills)
-
-<p>
-  <img src="https://img.shields.io/badge/GenAI%20Prompt%20Engineering-Completed-success?style=for-the-badge" />
-</p>
-
-- 🧠 **Effective Prompt Engineering** using LLMs to maximize QA productivity  
-- 🧩 AI-assisted test code generation & refactoring using **GitHub Copilot**
-- 🧠 Understanding **MCP Servers** to build specialized **Automation AI Agents**
-- 🤖 Using **AI Agents** for codeless browser automation
-- 🖥️ Leveraging AI at **terminal level (Claude Code)** with Selenium frameworks
-- 🔗 Building AI-powered workflows using **n8n**
-- 🔐 Working with **offline / private LLMs** for secure enterprise testing
-- 📄 Generating test artifacts instantly:
-  - ✅ Test Plans
-  - ✅ Test Cases
-  - ✅ Test Data
-  - ✅ Bug Templates
+- ✨ Smart **prompt engineering** for test design & framework acceleration  
+- 🧠 **AI-assisted test code generation & refactoring** (Copilot, LLMs)  
+- 🤝 Understanding **MCP Servers** for building specialized Automation AI Agents  
+- 🔁 AI-powered & self-healing automation concepts  
+- 🧩 AI agents for **codeless browser automation**  
+- 💻 AI at terminal level (Claude Code) integrated with Selenium workflows  
+- 🔗 AI-driven automation workflows using **n8n**  
+- 🔒 Working with **offline / private LLMs** for full data privacy  
+- 🧾 On-the-fly AI generation of:
+  - Test Plans  
+  - Test Cases  
+  - Test Data  
+  - Bug Templates  
 
 ---
 
 ## 📂 Featured Project
 
-### 🛒 OpenCart E-Commerce Automation Framework
-**Tech Stack:** Java | Selenium | TestNG | Maven | Jenkins | POM  
+### 🛒 OpenCart E-Commerce Automation Framework  
+**Tech Stack:** Java | Selenium | TestNG | Maven | Jenkins | POM
 
-✔ Automated Login, Search, Cart, Wishlist & Checkout  
-✔ Data-Driven Testing using Apache POI  
-✔ Jenkins CI execution & reporting  
-✔ Clean, scalable Page Object Model architecture  
+- Automated **Login, Product Search, Cart, Wishlist & Checkout**
+- Data-Driven Testing using **Apache POI**
+- CI execution via **Jenkins**
+- TestNG + **Extent Reports**
+- Clean, scalable, production-ready framework design
 
-📌 *Repository available in pinned projects*
-
----
-
-## 🧠 QA Engineering Philosophy
-> **“Automation is not about scripts.  
-It’s about speed, stability, and confidence at scale.”**
+📌 _Check pinned repositories for full implementation_
 
 ---
 
-## 📊 GitHub Activity
+## 📁 Knowledge & Documentation
+
+- 📘 Automation Framework Design
+- 📗 API Testing Best Practices
+- 📙 CI/CD Integration for Automation
+- 📕 GenAI for QA – Prompts & Workflows  
+
+_All repositories include structured documentation and examples._
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shubham00117&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Let’s Connect
-📍 Pune, India  
-📧 shubhamshinde27619@gmail.com  
-🔗 https://github.com/Shubham00117
+## 💡 Quality Philosophy
+
+> **“Quality is not a phase — it’s an engineering mindset embedded into every line of code.”**
+
+---
+
+## 🙏 Gratitude
+
+**Always thankful to mentors & educators**  
+Special thanks to **Pavan Kumar** for guidance that shaped my automation journey.
+
+---
+
+## 📬 Let’s Connect
+
+- 📧 **Email:** shubhamshinde5150@gmail.com  
+- 💻 **GitHub:** https://github.com/Shubham00117  
+
+💬 Reach out for:
+- Automation & framework discussions  
+- GenAI in testing  
+- Collaboration opportunities  
+
+---
+
+⭐ **Thanks for visiting my GitHub profile!**  
+Let’s build **quality — intelligently.**
