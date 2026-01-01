@@ -44,66 +44,110 @@ where reliability, productivity, and intelligent testing converge.
 ## 🛠️ Tech Stack
 
 ### 🔹 Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" title="Java"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" title="TypeScript"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" title="JavaScript"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36"/><br/>
+  <b>Java</b>
 </p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36"/><br/>
+  <b>TypeScript</b>
+</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36"/><br/>
+  <b>JavaScript</b>
+</p>
+
+---
 
 ### 🔹 UI Automation
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="36" title="Selenium WebDriver"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="36" title="Playwright"/>
-  <img width="12"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" height="36" title="Cypress"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="36" title="Cucumber BDD"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="36"/><br/>
+  <b>Selenium WebDriver</b>
 </p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="36"/><br/>
+  <b>Playwright</b>
+</p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" height="36"/><br/>
+  <b>Cypress</b>
+</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="36"/><br/>
+  <b>Cucumber (BDD)</b>
+</p>
+
+---
 
 ### 🔹 API Testing
-<p>
-  <img src="https://rest-assured.io/img/logo-transparent.png" height="36" title="Rest Assured"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="36" title="Postman"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="36" title="Swagger"/>
+<p align="left">
+  <img src="https://rest-assured.io/img/logo-transparent.png" height="36"/><br/>
+  <b>Rest Assured</b>
 </p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="36"/><br/>
+  <b>Postman</b>
+</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="36"/><br/>
+  <b>Swagger</b>
+</p>
+
+---
 
 ### 🔹 CI/CD & Build Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="36" title="Jenkins"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" title="GitHub Actions"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="36" title="Maven"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="36"/><br/>
+  <b>Jenkins</b>
 </p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36"/><br/>
+  <b>GitHub Actions</b>
+</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="36"/><br/>
+  <b>Maven</b>
+</p>
+
+---
 
 ### 🔹 Version Control
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" title="Git"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" title="GitHub"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/><br/>
+  <b>Git</b>
 </p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36"/><br/>
+  <b>GitHub</b>
+</p>
+
+---
 
 ### 🔹 Databases & Test Management
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" title="MySQL"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="36" title="Jira"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36"/><br/>
+  <b>MySQL</b>
 </p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="36"/><br/>
+  <b>Jira</b>
+</p>
+
+---
 
 ### 🔹 GenAI for QA
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="36" title="ChatGPT / LLMs"/>
-  <img width="12"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" height="36" title="GitHub Copilot"/>
-  <img width="12"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" height="36" title="n8n AI Workflows"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="36"/><br/>
+  <b>ChatGPT / LLMs</b>
 </p>
-
+<p align="left">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" height="36"/><br/>
+  <b>GitHub Copilot</b>
+</p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" height="36"/><br/>
+  <b>n8n (AI Workflows)</b>
+</p>
 <h2>🤖 GenAI for QA Automation</h2>
 
 <ul>
