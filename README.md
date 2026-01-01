@@ -199,6 +199,8 @@ where reliability, productivity, and intelligent testing converge.
 💬 Open to discussions on automation, framework design, GenAI in testing,
 and collaboration opportunities.
 </p>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 
 
