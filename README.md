@@ -1,10 +1,12 @@
 <h1 align="center">👋 Hi, I'm <b>Shubham Shinde</b></h1>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Shubham00117&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+
 <h3 align="center">
 QA Automation Engineer | GenAI-Driven Testing | Engineering Quality at Scale
 </h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Shubham00117&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Automation-Selenium%20%7C%20Playwright%20%7C%20Cypress-blueviolet" />
@@ -17,9 +19,7 @@ QA Automation Engineer | GenAI-Driven Testing | Engineering Quality at Scale
 
 <h2>🙋‍♂️ About Me</h2>
 
-<p>
-<b>QA Automation Engineer | ~3 Years Experience | PG-DAC (C-DAC)</b>
-</p>
+<p><b>QA Automation Engineer | ~3 Years Experience | PG-DAC (C-DAC)</b></p>
 
 <p>
 I design and build <b>scalable, maintainable, and CI-ready automation frameworks</b> across UI and API layers.
@@ -37,51 +37,71 @@ where reliability, productivity, and intelligent testing converge.
 <h2>🧠 What I Do</h2>
 
 <ul>
-  <li>✅ UI automation using modern, maintainable frameworks</li>
-  <li>✅ API automation with strong validations and data-driven strategies</li>
-  <li>✅ CI/CD integration for continuous and fast quality feedback</li>
-  <li>✅ Automation framework architecture (POM, BDD, Hybrid)</li>
-  <li>✅ GenAI-assisted testing for smarter coverage and faster delivery</li>
+  <li>UI automation using modern, maintainable frameworks</li>
+  <li>API automation with strong validations and data-driven strategies</li>
+  <li>CI/CD integration for continuous and fast quality feedback</li>
+  <li>Automation framework architecture (POM, BDD, Hybrid)</li>
+  <li>GenAI-assisted testing for smarter coverage and faster delivery</li>
 </ul>
 
-## 🛠️ Tech Stack
+<hr/>
 
-### 🔹 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<h2>🛠️ Tech Stack</h2>
 
-### 🔹 UI Automation
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+<h4>🔹 Programming Languages</h4>
 
-### 🔹 API Testing
-![Rest Assured](https://img.shields.io/badge/Rest%20Assured-Java-blue)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+</p>
 
-### 🔹 CI/CD & Build
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+<h4>🔹 UI Automation</h4>
 
-### 🔹 AI / GenAI for QA
-![ChatGPT](https://img.shields.io/badge/ChatGPT-QA%20Productivity-412991)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-AI%20Coding-black)
-![n8n](https://img.shields.io/badge/n8n-AI%20Workflows-FF6D00)
-![LLM](https://img.shields.io/badge/Private%20LLMs-Offline%20AI-blue)
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" />
+</p>
+
+<h4>🔹 API Testing</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/Rest%20Assured-Java-blue" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
+</p>
+
+<h4>🔹 CI/CD & Build</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" />
+</p>
+
+<h4>🔹 AI / GenAI for QA</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-QA%20Productivity-412991" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Coding-black" />
+  <img src="https://img.shields.io/badge/n8n-AI%20Workflows-FF6D00" />
+  <img src="https://img.shields.io/badge/Private%20LLMs-Offline%20AI-blue" />
+</p>
+
+<hr/>
+
 <h2>🤖 GenAI for QA Automation</h2>
 
 <ul>
-  <li>🧠 Prompt engineering for test design and automation strategy</li>
-  <li>⚡ AI-assisted test code generation & refactoring</li>
-  <li>🤖 Understanding <b>MCP Servers</b> for Automation AI Agents</li>
-  <li>🔄 Concepts of self-healing & codeless automation</li>
-  <li>🖥️ AI agents for browser & terminal-level automation</li>
-  <li>🔗 AI-driven automation workflows using <b>n8n</b></li>
-  <li>🔐 Working with <b>offline/private LLMs</b> for data security</li>
-  <li>📄 AI-generated artifacts:
+  <li>Prompt engineering for test design and automation strategy</li>
+  <li>AI-assisted test code generation & refactoring</li>
+  <li>Understanding <b>MCP Servers</b> for Automation AI Agents</li>
+  <li>Self-healing & codeless automation concepts</li>
+  <li>AI agents for browser & terminal-level automation</li>
+  <li>AI-driven automation workflows using <b>n8n</b></li>
+  <li>Offline / private LLMs for data security</li>
+  <li>AI-generated artifacts:
     <ul>
       <li>Test Plans</li>
       <li>Test Cases</li>
@@ -110,81 +130,6 @@ where reliability, productivity, and intelligent testing converge.
 <p><i>📌 Check pinned repositories for implementation details</i></p>
 
 <hr/>
-
-<hr/>
-
-<h2>📘 Technical Documentation</h2>
-
-<ul>
-  <li>
-    📁 <b>Automation Framework Architecture</b><br/>
-    🔗 <a href="https://github.com/Shubham00117/OpenCartV131.git" target="_blank">
-      OpenCart Automation Framework (Java | Selenium | TestNG | Jenkins)
-    </a><br/>
-    🔗 <a href="https://github.com/Shubham00117/opencart_Cucumber.git" target="_blank">
-      OpenCart BDD Framework (Cucumber | POM | Hybrid)
-    </a>
-  </li>
-
-  <br/>
-
-  <li>
-    📁 <b>API Testing & Automation Best Practices</b><br/>
-    🔗 <a href="https://github.com/Shubham00117/PetStoreAutomation.git" target="_blank">
-      PetStore API Automation (Rest Assured | Postman | Swagger)
-    </a>
-  </li>
-
-  <br/>
-
-  <li>
-    📁 <b>CI/CD Integration for Automation</b><br/>
-    🔗 <a href="https://github.com/Shubham00117/OpenCartV131.git" target="_blank">
-      Jenkins & GitHub Actions Integrated Automation
-    </a>
-  </li>
-
-  <br/>
-
-  <li>
-    📁 <b>Full-Stack Projects</b><br/>
-    🔗 <a href="https://github.com/Shubham00117/LabourLoom-Platform.git" target="_blank">
-      LabourLoom Platform (Enterprise Application)
-    </a><br/>
-    🔗 <a href="https://github.com/Shubham00117/Dating_App_Angular18_With_.NET8.git" target="_blank">
-      Dating App (Angular 18 | .NET 8)
-    </a><br/>
-    🔗 <a href="https://github.com/Shubham00117/skinet.git" target="_blank">
-      Skynet Platform (Modern Web Application)
-    
-  </li>
-  </a><br/>
-  📁 <b>Language</b><br>
-  
-   </a>
-    🔗 <a href="https://drive.google.com/drive/folders/13iWXsRcUZ0rBEC0akxKqm4FrvSLvUq8B?usp=drive_link" target="_blank">
-      Core Java
-    </a>
-      </a><br/>
-  </a>
-    🔗 <a href="https://github.com/Shubham00117/TypeScript.git" target="_blank">
-      TypeScript Concepts & Hands-On Examples
-    </a>
-     
-    
-</ul>
-
-<p>
-  <i>📌 Each repository contains structured documentation, real-world examples, and implementation details focused on quality, scalability, and maintainability.</i>
-</p>
-
-<hr/>
-
-
-<hr/>
-
-<hr/>
-
 <h2>📚 Full Stack Automation Testing Course</h2>
 
 <p>
@@ -314,14 +259,12 @@ who want to build strong foundations and progress toward industry-ready automati
     </a>
   </li>
 </ul>
-
+<hr/>
 <p>
   <i>📌 This course reflects my hands-on experience in real-world automation projects and focuses on writing clean,
   maintainable, and scalable test solutions.</i>
 </p>
-
 <hr/>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
@@ -385,7 +328,6 @@ who want to build strong foundations and progress toward industry-ready automati
 
 </div>
 
-
 <h2>📬 Let’s Connect</h2>
 
 <ul>
@@ -398,13 +340,7 @@ who want to build strong foundations and progress toward industry-ready automati
 and collaboration opportunities.
 </p>
 
-
-
-
-
 <hr/>
 
 <h3 align="center">⭐ Thanks for visiting my GitHub profile!</h3>
 <p align="center"><b>Let’s build quality — intelligently.</b></p>
-
-<hr/>
