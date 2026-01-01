@@ -259,7 +259,7 @@ who want to build strong foundations and progress toward industry-ready automati
     </a>
   </li>
 </ul>
-<hr/>
+
 <p>
   <i>📌 This course reflects my hands-on experience in real-world automation projects and focuses on writing clean,
   maintainable, and scalable test solutions.</i>
