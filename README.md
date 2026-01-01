@@ -41,36 +41,68 @@ where reliability, productivity, and intelligent testing converge.
   <li>✅ GenAI-assisted testing for smarter coverage and faster delivery</li>
 </ul>
 
-<hr/>
+## 🛠️ Tech Stack
 
-<h2>🛠️ Tech Stack</h2>
-
-<h3>🔹 Programming Languages</h3>
+### 🔹 Programming Languages
 <p>
-Java · TypeScript · JavaScript
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" title="Java"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" title="TypeScript"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" title="JavaScript"/>
 </p>
 
-<h3>🔹 UI Automation</h3>
+### 🔹 UI Automation
 <p>
-Selenium · Playwright · Cypress · Cucumber (BDD)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="36" title="Selenium WebDriver"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="36" title="Playwright"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" height="36" title="Cypress"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="36" title="Cucumber BDD"/>
 </p>
 
-<h3>🔹 API Testing</h3>
+### 🔹 API Testing
 <p>
-Rest Assured · Postman · Swagger · JSON · REST
+  <img src="https://rest-assured.io/img/logo-transparent.png" height="36" title="Rest Assured"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="36" title="Postman"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="36" title="Swagger"/>
 </p>
 
-<h3>🔹 CI/CD & Build</h3>
+### 🔹 CI/CD & Build Tools
 <p>
-Jenkins · GitHub Actions · Maven · Git
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="36" title="Jenkins"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" title="GitHub Actions"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="36" title="Maven"/>
 </p>
 
-<h3>🔹 GenAI for QA</h3>
+### 🔹 Version Control
 <p>
-ChatGPT · GitHub Copilot · n8n · Private / Offline LLMs
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" title="Git"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" title="GitHub"/>
 </p>
 
-<hr/>
+### 🔹 Databases & Test Management
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" title="MySQL"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="36" title="Jira"/>
+</p>
+
+### 🔹 GenAI for QA
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="36" title="ChatGPT / LLMs"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" height="36" title="GitHub Copilot"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" height="36" title="n8n AI Workflows"/>
+</p>
 
 <h2>🤖 GenAI for QA Automation</h2>
 
