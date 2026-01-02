@@ -2,12 +2,15 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # 🔥 THIS IS CRITICAL
 
     steps:
       - name: Generate snake animation
