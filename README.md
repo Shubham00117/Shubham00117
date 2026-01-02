@@ -327,7 +327,12 @@ who want to build strong foundations and progress toward industry-ready automati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="32" title="macOS"/>
 
 </div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Shubham00117/Shubham00117/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Shubham00117/Shubham00117/output/snake.svg"
+       alt="GitHub contribution snake animation">
+</picture>
 <h2>📬 Let’s Connect</h2>
 
 <ul>
