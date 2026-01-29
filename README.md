@@ -108,23 +108,7 @@ where reliability, productivity, and intelligent testing converge.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
-<h4>🔹 Full Stack Development</h4>
 
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
-<h4>🔹 AI / GenAI for QA</h4>
-
-<p>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude%20AI-191919?style=flat&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windsurf%20IDE-00D4AA?style=flat&logo=codeium&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6D00?style=flat&logo=n8n&logoColor=white" />
-</p>
 
 <h4>🔹 AI Agent Frameworks</h4>
 
@@ -136,35 +120,7 @@ where reliability, productivity, and intelligent testing converge.
   <img src="https://img.shields.io/badge/Auto--GPT-Autonomous-green" />
 </p>
 
-<h4>🔹 Offline / Local LLM Tools</h4>
 
-<p>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/LM%20Studio-Local%20AI-informational" />
-  <img src="https://img.shields.io/badge/GPT4All-Offline%20LLM-success" />
-</p>
-
-<h4>🔹 AI-Powered Testing Tools</h4>
-
-<p>
-  <img src="https://img.shields.io/badge/TestRigor-AI%20Testing-blueviolet" />
-  <img src="https://img.shields.io/badge/Testim-Visual%20AI-orange" />
-  <img src="https://img.shields.io/badge/Functionize-ML%20Testing-blue" />
-  <img src="https://img.shields.io/badge/Mabl-Intelligent%20QA-purple" />
-</p>
-
-<hr/>
-
-<h2>🤖 GenAI for QA Automation</h2>
-
-<h4>🔸 AI Code Assistants</h4>
-<ul>
-  <li>GitHub Copilot - AI pair programming</li>
-  <li>Windsurf IDE - AI-native development environment</li>
-  <li>Google Antigravity - Advanced AI coding assistant</li>
-  <li>Claude Code - Intelligent code generation & refactoring</li>
-  <li>LM Studio - Local AI for private development</li>
-</ul>
 
 <h4>🔸 AI Agent Frameworks</h4>
 <ul>
@@ -175,24 +131,10 @@ where reliability, productivity, and intelligent testing converge.
   <li>Auto-GPT - Autonomous task execution</li>
 </ul>
 
-<h4>🔸 AI-Powered Testing Tools</h4>
-<ul>
-  <li>TestRigor - Natural language test automation</li>
-  <li>Testim - Visual AI testing</li>
-  <li>Functionize - ML-powered testing</li>
-  <li>Mabl - Intelligent test automation</li>
-</ul>
 
-<h4>🔸 Offline / Local LLM Tools</h4>
-<ul>
-  <li>Ollama - Run LLMs locally</li>
-  <li>LM Studio - Local AI inference</li>
-  <li>GPT4All - Privacy-first local AI</li>
-</ul>
 
 <h4>🔸 AI Workflow Automation</h4>
 <ul>
-  <li>n8n - AI-driven workflow automation</li>
   <li>Prompt engineering for test design and automation strategy</li>
   <li>AI-assisted test code generation & refactoring</li>
   <li>Self-healing & codeless automation concepts</li>
@@ -498,13 +440,6 @@ who want to build strong foundations and progress toward industry-ready automati
   <img src="https://cdn.simpleicons.org/apachejmeter" height="32" title="JMeter"/>
   <img width="20"/>
 
-  <!-- Full Stack -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="32" title="Angular"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="32" title=".NET Core"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="32" title="SQL Server"/>
-  <img width="20"/>
 
   <!-- Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" title="Git"/>
@@ -521,17 +456,7 @@ who want to build strong foundations and progress toward industry-ready automati
   <img width="20"/>
 
   <!-- AI Tools -->
-  <img src="https://cdn.simpleicons.org/githubcopilot" height="32" title="GitHub Copilot"/>
-  <img width="10"/>
-  <img src="https://cdn.simpleicons.org/anthropic" height="32" title="Claude AI"/>
-  <img width="10"/>
-  <img src="https://cdn.simpleicons.org/googlegemini" height="32" title="Google Gemini"/>
-  <img width="10"/>
   <img src="https://cdn.simpleicons.org/langchain" height="32" title="LangChain"/>
-  <img width="10"/>
-  <img src="https://cdn.simpleicons.org/ollama" height="32" title="Ollama"/>
-  <img width="10"/>
-  <img src="https://cdn.simpleicons.org/n8n" height="32" title="n8n"/>
   <img width="20"/>
 
   <!-- Operating Systems -->
