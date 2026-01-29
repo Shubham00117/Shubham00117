@@ -93,11 +93,7 @@ where reliability, productivity, and intelligent testing converge.
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
 </p>
 
-<h4>🔹 Performance Testing</h4>
 
-<p>
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white" />
-</p>
 
 <h4>🔹 CI/CD & Build</h4>
 
@@ -124,7 +120,7 @@ where reliability, productivity, and intelligent testing converge.
 
 <h4>🔸 AI Agent Frameworks</h4>
 <ul>
-  <li>LangChain & LlamaIndex - LLM orchestration for context-aware testing</li>
+  <li>LangChain - LLM orchestration for context-aware testing</li>
   <li>Langgraph - Multi-agent workflow orchestration</li>
   <li>Model Context Protocol (MCP) - AI agents for automation</li>
   <li>CrewAI - Collaborative AI agent systems</li>
@@ -323,14 +319,6 @@ who want to build strong foundations and progress toward industry-ready automati
   </li>
 </ul>
 
-<h3>📈 Performance Testing</h3>
-<ul>
-  <li>JMeter  
-    🔗 <a href="https://github.com/Shubham00117/Jmeter" target="_blank">
-      JMeter Repository
-    </a>
-  </li>
-</ul>
 
 <h3>🧑‍💻 Modern UI Automation</h3>
 <ul>
@@ -436,9 +424,6 @@ who want to build strong foundations and progress toward industry-ready automati
   <img src="https://rest-assured.io/img/logo-transparent.png" height="32" title="Rest Assured"/>
   <img width="20"/>
 
-  <!-- Performance Testing -->
-  <img src="https://cdn.simpleicons.org/apachejmeter" height="32" title="JMeter"/>
-  <img width="20"/>
 
 
   <!-- Version Control -->
