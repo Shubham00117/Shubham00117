@@ -18,7 +18,7 @@
 
 <hr />
 
-<h2>🙋♂️ About Me</h2>
+<h2>🙋‍♂️ About Me</h2>
 
 <p><b>QA Automation Engineer | ~3 Years Experience | PG-DAC (C-DAC)</b></p>
 
@@ -51,7 +51,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>�️ Enterprise Test Architecture</h3>
+      <h3>🏗️ Enterprise Test Architecture</h3>
       <p><i>Expert Architect</i></p>
       <p>Architecting scalable frameworks with Playwright and Selenium, integrating AI-powered self-healing and
         autonomous multi-browser execution.</p>
@@ -168,15 +168,7 @@
 
 
 
-<h4>� AI Capabilities</h4>
-<ul>
-  <li>✨ Prompt engineering for test design and automation strategy</li>
-  <li>🔧 AI-assisted test code generation & refactoring</li>
-  <li>🔄 Self-healing & codeless automation concepts</li>
-  <li>🌐 AI agents for browser & terminal-level automation</li>
-  <li>� Automated generation of test plans, test cases, and test data</li>
-  <li>🐛 AI-generated bug & defect templates</li>
-</ul>
+
 
 <hr />
 
@@ -213,7 +205,9 @@
 
 <h2>📂 Featured Projects</h2>
 
-<h3>🛒 OpenCart E-Commerce Automation Framework</h3>
+<h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="28"
+    height="28" /> Java Selenium Framework</h3>
+<h4>🛒 OpenCart E-Commerce Automation Framework</h4>
 
 <p><b>Tech Stack:</b> Java | Selenium | TestNG | Maven | Jenkins | POM</p>
 
@@ -239,7 +233,8 @@
 
 <br />
 
-<h3>🎭 Playwright TypeScript Framework</h3>
+<h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="28"
+    height="28" /> Playwright TypeScript Framework</h3>
 
 <p><b>Tech Stack:</b> TypeScript | Playwright | Cucumber | Docker | CI/CD</p>
 
@@ -262,7 +257,8 @@
 
 <br />
 
-<h3>🐍 Cypress Component Testing</h3>
+<h3><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="28"
+    height="28" /> Cypress Component Testing</h3>
 
 <p><b>Tech Stack:</b> Cypress | JavaScript | React</p>
 
@@ -382,7 +378,7 @@
 </details>
 
 <details>
-  <summary><b>🧑💻 Modern UI Automation</b></summary>
+  <summary><b>🧑‍💻 Modern UI Automation</b></summary>
   <ul>
     <li>TypeScript - <a
         href="https://drive.google.com/drive/folders/1AAJ3JKJ9gMeKKozk9bwzgE3pYfwbkJHb?usp=drive_link">TypeScript for
