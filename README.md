@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <b>Shubham Shinde</b></h1>
 
 <h3 align="center">
-QA Automation Engineer | GenAI-Driven Testing | Engineering Quality at Scale
+  QA Automation Engineer | GenAI-Driven Testing | Engineering Quality at Scale
 </h3>
 
 <p align="left">
@@ -9,100 +9,98 @@ QA Automation Engineer | GenAI-Driven Testing | Engineering Quality at Scale
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Automation-Selenium%20%7C%20Playwright%20%7C%20Cypress%20%7C%20Appium-blueviolet" />
+  <img
+    src="https://img.shields.io/badge/Automation-Selenium%20%7C%20Playwright%20%7C%20Cypress%20%7C%20Appium-blueviolet" />
   <img src="https://img.shields.io/badge/API-Rest%20Assured%20%7C%20Postman-orange" />
   <img src="https://img.shields.io/badge/CI%2FCD-Jenkins%20%7C%20GitHub%20Actions-success" />
   <img src="https://img.shields.io/badge/GenAI-QA%20Automation%20%7C%20Prompt%20Engineering-informational" />
 </p>
 
-<hr/>
+<hr />
 
 <h2>🙋♂️ About Me</h2>
 
 <p><b>QA Automation Engineer | ~3 Years Experience | PG-DAC (C-DAC)</b></p>
 
 <p>
-I design and build <b>scalable, maintainable, and CI-ready automation frameworks</b> across UI and API layers.
-My approach goes beyond traditional testing — I focus on <b>engineering quality into every stage of the SDLC</b>,
-now accelerated with <b>GenAI-powered QA workflows</b>.
+  I design and build <b>scalable, maintainable, and CI-ready automation frameworks</b> across UI and API layers.
+  My approach goes beyond traditional testing — I focus on <b>engineering quality into every stage of the SDLC</b>,
+  now accelerated with <b>GenAI-powered QA workflows</b>.
 </p>
 
 <p>
-I enjoy working at the intersection of <b>Automation, Framework Architecture, and AI</b>,
-where reliability, productivity, and intelligent testing converge.
+  I enjoy working at the intersection of <b>Automation, Framework Architecture, and AI</b>,
+  where reliability, productivity, and intelligent testing converge.
 </p>
 
-<hr/>
+<hr />
 
 <h2>📊 At a Glance</h2>
 
-<table>
-  <tr>
-    <td align="center">
-      <h3>3+</h3>
-      <p>Years Experience</p>
-    </td>
-    <td align="center">
-      <h3>15+</h3>
-      <p>Technologies</p>
-    </td>
-    <td align="center">
-      <h3>12+</h3>
-      <p>Projects</p>
-    </td>
-    <td align="center">
-      <h3>6+</h3>
-      <p>AI Tools</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  📅 <b>3+ Years Experience</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  💻 <b>15+ Technologies</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  📁 <b>12+ Projects</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🤖 <b>6+ AI Tools</b>
+</p>
 
-<hr/>
+<hr />
 
 <h2>🧠 Core Expertise</h2>
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🏗️ Enterprise Test Architecture</h3>
+    <td width="50%" valign="top">
+      <h3>�️ Enterprise Test Architecture</h3>
       <p><i>Expert Architect</i></p>
-      <p>Architecting scalable frameworks with Playwright and Selenium, integrating AI-powered self-healing and autonomous multi-browser execution.</p>
+      <p>Architecting scalable frameworks with Playwright and Selenium, integrating AI-powered self-healing and
+        autonomous multi-browser execution.</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🤖 Agentic Engineering (MCP)</h3>
       <p><i>AI Strategist</i></p>
-      <p>Building intelligent agents using LangChain, LangGraph, and Model Context Protocol (MCP Servers) for context-aware testing and automated reasoning.</p>
+      <p>Building intelligent agents using LangChain, LangGraph, and Model Context Protocol (MCP Servers) for
+        context-aware testing and automated reasoning.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>⚡ AI Dev & Workflow Ops</h3>
       <p><i>Efficiency Leader</i></p>
-      <p>Optimizing delivery with Windsurf, Google Antigravity, and Claude Code, leveraging n8n for complex AI-driven workflow automation.</p>
+      <p>Optimizing delivery with Windsurf, Google Antigravity, and Claude Code, leveraging n8n for complex AI-driven
+        workflow automation.</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🔒 Local AI & Private LLMs</h3>
       <p><i>Privacy First</i></p>
-      <p>Deploying secure, offline intelligence using Ollama and LM Studio, ensuring data privacy while maintaining high-performance local inference.</p>
+      <p>Deploying secure, offline intelligence using Ollama and LM Studio, ensuring data privacy while maintaining
+        high-performance local inference.</p>
     </td>
   </tr>
 </table>
 
-<hr/>
+<hr />
 
 <h2>🧠 What I Do</h2>
 
 <ul>
-  <li>✅ UI automation using modern, maintainable frameworks</li>
-  <li>✅ API automation with strong validations and data-driven strategies</li>
-  <li>✅ Mobile automation using Appium for Android & iOS</li>
-  <li>✅ Performance testing with JMeter</li>
-  <li>✅ CI/CD integration for continuous and fast quality feedback</li>
-  <li>✅ Automation framework architecture (POM, BDD, Hybrid)</li>
-  <li>✅ GenAI-assisted testing for smarter coverage and faster delivery</li>
+  <li>🎯 <b>Enterprise Test Automation</b> - Designing scalable frameworks using Selenium, Playwright, and Cypress with
+    robust patterns (POM, BDD, Hybrid)</li>
+  <li>🔗 <b>API & Integration Testing</b> - Building comprehensive API test suites with Rest Assured and Postman,
+    ensuring data integrity and contract validation</li>
+  <li>📱 <b>Cross-Platform Mobile Testing</b> - Automating Android & iOS applications using Appium with gesture handling
+    and device farm integration</li>
+  <li>⚡ <b>Performance & Load Testing</b> - Conducting stress and scalability testing with JMeter to ensure system
+    reliability under high load</li>
+  <li>🚀 <b>CI/CD Pipeline Integration</b> - Implementing automated test execution in Jenkins and GitHub Actions for
+    continuous quality feedback</li>
+  <li>🤖 <b>AI-Powered Testing</b> - Leveraging GenAI for intelligent test generation, self-healing automation, and
+    context-aware test coverage</li>
+  <li>🧪 <b>Quality Engineering</b> - Advocating shift-left testing, test data management, and quality metrics to embed
+    testing throughout SDLC</li>
 </ul>
 
-<hr/>
+<hr />
 
 <h2>🛠️ Tech Stack</h2>
 
@@ -168,63 +166,56 @@ where reliability, productivity, and intelligent testing converge.
   <img src="https://img.shields.io/badge/Auto--GPT-Autonomous-green" />
 </p>
 
-<h4>🔸 AI Agent Frameworks</h4>
 <ul>
-  <li>LangChain - LLM orchestration for context-aware testing</li>
-  <li>Langgraph - Multi-agent workflow orchestration</li>
-  <li>Model Context Protocol (MCP) - AI agents for automation</li>
-  <li>CrewAI - Collaborative AI agent systems</li>
-  <li>Auto-GPT - Autonomous task execution</li>
+  <li>💡 <b>LangChain</b> - LLM orchestration for context-aware testing</li>
+  <li>🔄 <b>Langgraph</b> - Multi-agent workflow orchestration</li>
+  <li>🔌 <b>Model Context Protocol (MCP)</b> - AI agents for automation</li>
+  <li>👥 <b>CrewAI</b> - Collaborative AI agent systems</li>
+  <li>🤖 <b>Auto-GPT</b> - Autonomous task execution</li>
 </ul>
 
-<h4>🔸 AI Workflow Automation</h4>
+<h4>� AI Capabilities</h4>
 <ul>
-  <li>Prompt engineering for test design and automation strategy</li>
-  <li>AI-assisted test code generation & refactoring</li>
-  <li>Self-healing & codeless automation concepts</li>
-  <li>AI agents for browser & terminal-level automation</li>
+  <li>✨ Prompt engineering for test design and automation strategy</li>
+  <li>🔧 AI-assisted test code generation & refactoring</li>
+  <li>🔄 Self-healing & codeless automation concepts</li>
+  <li>🌐 AI agents for browser & terminal-level automation</li>
+  <li>� Automated generation of test plans, test cases, and test data</li>
+  <li>🐛 AI-generated bug & defect templates</li>
 </ul>
 
-<h4>🔸 AI-Generated Artifacts</h4>
-<ul>
-  <li>Test Plans</li>
-  <li>Test Cases</li>
-  <li>Test Data</li>
-  <li>Bug & Defect Templates</li>
-</ul>
-
-<hr/>
+<hr />
 
 <h2>🤖 AI Lab Ecosystem</h2>
 
 <table>
   <tr>
-    <td><b>Generative AI Platforms</b></td>
+    <td width="30%"><b>Generative AI Platforms</b></td>
     <td>ChatGPT • Google Gemini • Claude</td>
   </tr>
   <tr>
-    <td><b>AI Code Assistants</b></td>
+    <td width="30%"><b>AI Code Assistants</b></td>
     <td>GitHub Copilot • Windsurf IDE • Google Antigravity • Claude Code • LM Studio</td>
   </tr>
   <tr>
-    <td><b>AI Agent Frameworks</b></td>
+    <td width="30%"><b>AI Agent Frameworks</b></td>
     <td>LangChain • Langgraph • Auto-GPT • Model Context Protocol (MCP) • CrewAI</td>
   </tr>
   <tr>
-    <td><b>AI-Powered Testing Tools</b></td>
+    <td width="30%"><b>AI-Powered Testing Tools</b></td>
     <td>TestRigor • Testim • Functionize • Mabl</td>
   </tr>
   <tr>
-    <td><b>Offline / Local LLM Tools</b></td>
+    <td width="30%"><b>Offline / Local LLM Tools</b></td>
     <td>Ollama • LM Studio • GPT4All</td>
   </tr>
   <tr>
-    <td><b>AI Workflow Automation</b></td>
+    <td width="30%"><b>AI Workflow Automation</b></td>
     <td>n8n</td>
   </tr>
 </table>
 
-<hr/>
+<hr />
 
 <h2>📂 Featured Projects</h2>
 
@@ -241,17 +232,18 @@ where reliability, productivity, and intelligent testing converge.
 </ul>
 
 <p>
-  🔗 <a href="https://github.com/Shubham00117/OpenCartV131-Selenium">OpenCart Selenium Framework</a> | 
+  🔗 <a href="https://github.com/Shubham00117/OpenCartV131-Selenium">OpenCart Selenium Framework</a> |
   <a href="https://github.com/Shubham00117/opencart_Cucumber">OpenCart Cucumber BDD</a>
 </p>
 
 <details>
-<summary><b>Challenges & Solutions</b></summary>
-<p><b>Challenge:</b> Managing test flakiness in a dynamic enterprise environment with complex DOM structures.</p>
-<p><b>Solution:</b> Implemented robust explicit wait strategies, custom retry listeners in TestNG, and a singleton design pattern for WebDriver management to ensure stability.</p>
+  <summary><b>Challenges & Solutions</b></summary>
+  <p><b>Challenge:</b> Managing test flakiness in a dynamic enterprise environment with complex DOM structures.</p>
+  <p><b>Solution:</b> Implemented robust explicit wait strategies, custom retry listeners in TestNG, and a singleton
+    design pattern for WebDriver management to ensure stability.</p>
 </details>
 
-<br/>
+<br />
 
 <h3>🎭 Playwright TypeScript Framework</h3>
 
@@ -268,12 +260,13 @@ where reliability, productivity, and intelligent testing converge.
 <p>🔗 <a href="https://github.com/Shubham00117/PlayWright">Playwright Framework</a></p>
 
 <details>
-<summary><b>Challenges & Solutions</b></summary>
-<p><b>Challenge:</b> Achieving reliable visual regression testing across different environments and viewports.</p>
-<p><b>Solution:</b> Integrated Docker containers for consistent execution environments and utilized Playwright's built-in visual comparison tools with strict threshold configurations.</p>
+  <summary><b>Challenges & Solutions</b></summary>
+  <p><b>Challenge:</b> Achieving reliable visual regression testing across different environments and viewports.</p>
+  <p><b>Solution:</b> Integrated Docker containers for consistent execution environments and utilized Playwright's
+    built-in visual comparison tools with strict threshold configurations.</p>
 </details>
 
-<br/>
+<br />
 
 <h3>🐍 Cypress Component Testing</h3>
 
@@ -288,240 +281,151 @@ where reliability, productivity, and intelligent testing converge.
 <p>🔗 <a href="https://github.com/Shubham00117/Cypress">Cypress Framework</a></p>
 
 <details>
-<summary><b>Challenges & Solutions</b></summary>
-<p><b>Challenge:</b> Isolating components from their backend dependencies during testing.</p>
-<p><b>Solution:</b> Utilized Cypress interceptors to mock API responses and fixtures to simulate various data states, ensuring pure component logic validation.</p>
+  <summary><b>Challenges & Solutions</b></summary>
+  <p><b>Challenge:</b> Isolating components from their backend dependencies during testing.</p>
+  <p><b>Solution:</b> Utilized Cypress interceptors to mock API responses and fixtures to simulate various data states,
+    ensuring pure component logic validation.</p>
 </details>
-
-<br/>
-
-<h3>📱 Appium Mobile Automation</h3>
-
-<p><b>Tech Stack:</b> Java | Appium | Android | iOS | POM</p>
-
-<ul>
-  <li>Cross-platform mobile automation for Android & iOS</li>
-  <li>Page Object Model architecture</li>
-  <li>Gesture automation & mobile-specific interactions</li>
-  <li>Cloud device farm execution</li>
-</ul>
-
-<p>🔗 <a href="https://github.com/Shubham00117/AppiumAppTesting_Android_And_IOS">Appium Framework</a></p>
-
-<details>
-<summary><b>Challenges & Solutions</b></summary>
-<p><b>Challenge:</b> Handling different locator strategies and gestures for both Android and iOS in a single codebase.</p>
-<p><b>Solution:</b> Adopted the Page Object Model (POM) with conditional logic for platform-specific drivers and implemented a common gesture utility library.</p>
-</details>
-
-<br/>
-
-<h3>🐍 Pytest UI Framework</h3>
-
-<p><b>Tech Stack:</b> Python | Pytest | Selenium</p>
-
-<ul>
-  <li>Python-based UI automation framework</li>
-  <li>Fixtures and conftest patterns</li>
-  <li>Scalable test architecture</li>
-</ul>
-
-<p>🔗 <a href="https://github.com/Shubham00117/pytest-ui-framework">Pytest Framework</a></p>
-
-<br/>
-
-<h3>🤖 GenAI Testing Toolkit</h3>
-
-<p><b>Tech Stack:</b> OpenAI API | Python | LangChain</p>
-
-<ul>
-  <li>AI-powered testing utilities and prompt engineering for QA</li>
-  <li>Context-aware test case generation</li>
-  <li>Few-shot learning for quality assurance formats</li>
-</ul>
-
-<p>🔗 <a href="https://github.com/Shubham00117/GenAi">GenAI Repository</a></p>
-
-<details>
-<summary><b>Challenges & Solutions</b></summary>
-<p><b>Challenge:</b> Generating relevant and context-aware test cases from vague requirements.</p>
-<p><b>Solution:</b> Fine-tuned prompts with few-shot learning techniques and context injection to guide the LLM towards standard quality assurance formats.</p>
-</details>
-
-<br/>
-
-<h3>🔌 MCP Server & GenAI Workflows</h3>
-
-<p><b>Tech Stack:</b> TypeScript | MCP | LLM APIs</p>
-
-<ul>
-  <li>Model Context Protocol servers for AI agents</li>
-  <li>AI-powered automation workflows</li>
-  <li>Unified protocol for AI tool orchestration</li>
-</ul>
-
-<p>🔗 <a href="https://github.com/Shubham00117/MCP-Server">MCP Server Repository</a></p>
-
-<details>
-<summary><b>Challenges & Solutions</b></summary>
-<p><b>Challenge:</b> Orchestrating multiple AI tools through a unified protocol.</p>
-<p><b>Solution:</b> Implemented MCP server architecture for seamless AI tool integration and context sharing.</p>
-</details>
-
-<br/>
-
-<h3>💼 LabourLoom Platform</h3>
-
-<p><b>Tech Stack:</b> Angular | .NET Core | SQL Server | SignalR</p>
-
-<ul>
-  <li>Comprehensive labor management and workforce coordination platform</li>
-  <li>Real-time bi-directional communication</li>
-  <li>Optimized SQL queries for high-concurrency</li>
-</ul>
-
-<p>🔗 <a href="https://github.com/Shubham00117/LabourLoom-Platform">LabourLoom Platform</a></p>
-
-<details>
-<summary><b>Challenges & Solutions</b></summary>
-<p><b>Challenge:</b> Synchronizing real-time workforce data across multiple client dashboards.</p>
-<p><b>Solution:</b> Implemented SignalR for real-time bi-directional communication and optimized SQL queries to handle high-concurrency data requests.</p>
-</details>
-
-<br/>
-
-<h3>💑 Dating App - Angular & .NET</h3>
-
-<p><b>Tech Stack:</b> Angular 18 | .NET 8 | SQL Server | SignalR</p>
-
-<ul>
-  <li>Full-stack dating application with real-time messaging</li>
-  <li>WebSocket communication and presence tracking</li>
-  <li>Optimized database queries for user matching</li>
-</ul>
-
-<p>🔗 <a href="https://github.com/Shubham00117/Dating_App_Angular18_With_.NET8">Dating App Repository</a></p>
-
-<br/>
-
-<h3>🛍️ Full-Stack E-Commerce (Skinet)</h3>
-
-<p><b>Tech Stack:</b> Angular | .NET Core | SQL Server</p>
-
-<ul>
-  <li>Complete e-commerce solution with Angular frontend</li>
-  <li>.NET Core backend with RESTful APIs</li>
-  <li>Performance optimization and security protocols</li>
-</ul>
-
-<p>🔗 <a href="https://github.com/Shubham00117/skinet">Skinet Repository</a></p>
 
 <p><i>📌 Check pinned repositories for implementation details</i></p>
 
-<hr/>
+<hr />
 
 <h2>📚 Full Stack Automation Testing Course</h2>
 
 <p>
-I have designed and documented a comprehensive <b>Full Stack Automation Testing Course</b> with structured notes,
-hands-on examples, and real-world workflows. This course is suitable for beginners to intermediate-level QA engineers
-who want to build strong foundations and progress toward industry-ready automation skills.
+  I have designed and documented a comprehensive <b>Full Stack Automation Testing Course</b> with structured notes,
+  hands-on examples, and real-world workflows. This course is suitable for beginners to intermediate-level QA engineers
+  who want to build strong foundations and progress toward industry-ready automation skills.
 </p>
 
 <h3>📖 Course Modules</h3>
 
 <details>
-<summary><b>🧭 Course Workflow & Roadmap</b></summary>
-<p>🔗 <a href="https://drive.google.com/drive/folders/1ADId0HCJsPMU_Ge_1kNQyhva1FbDQ9fU?usp=drive_link">View Workflow & Syllabus</a></p>
+  <summary><b>🧭 Course Workflow & Roadmap</b></summary>
+  <p>🔗 <a href="https://drive.google.com/drive/folders/1ADId0HCJsPMU_Ge_1kNQyhva1FbDQ9fU?usp=drive_link">View Workflow
+      & Syllabus</a></p>
 </details>
 
 <details>
-<summary><b>🧪 Core Testing Foundations</b></summary>
-<ul>
-  <li>Manual Testing - <a href="https://drive.google.com/drive/folders/1r9MuyU_JT0Q0Abe_IVtAcK8iCTvXoiy4?usp=drive_link">Notes & Examples</a></li>
-</ul>
+  <summary><b>🧪 Core Testing Foundations</b></summary>
+  <ul>
+    <li>Manual Testing - <a
+        href="https://drive.google.com/drive/folders/1r9MuyU_JT0Q0Abe_IVtAcK8iCTvXoiy4?usp=drive_link">Notes &
+        Examples</a></li>
+  </ul>
 </details>
 
 <details>
-<summary><b>☕ Programming & Automation Basics</b></summary>
-<ul>
-  <li>Java - <a href="https://drive.google.com/drive/folders/13iWXsRcUZ0rBEC0akxKqm4FrvSLvUq8B?usp=drive_link">Java for Automation</a></li>
-  <li>Python - <a href="https://github.com/Shubham00117/Python">Python Repository</a></li>
-  <li>Selenium WebDriver - <a href="https://drive.google.com/drive/folders/1l9L_HfGUAEk7-iWnM-psvKTB0oGPVaxR?usp=drive_link">Selenium Notes</a></li>
-  <li>TestNG - <a href="https://drive.google.com/drive/folders/1lV8Kseu7S3iKLxbT9dMjh0Wyl397BZdJ?usp=drive_link">TestNG Concepts</a></li>
-  <li>Apache POI - <a href="https://drive.google.com/drive/folders/1WZassV83tuRL8_woQZgiIfo-OBEEIYhz?usp=drive_link">Data-Driven Testing</a></li>
-</ul>
+  <summary><b>☕ Programming & Automation Basics</b></summary>
+  <ul>
+    <li>Java - <a href="https://drive.google.com/drive/folders/13iWXsRcUZ0rBEC0akxKqm4FrvSLvUq8B?usp=drive_link">Java
+        for Automation</a></li>
+    <li>Python - <a href="https://github.com/Shubham00117/Python">Python Repository</a></li>
+    <li>Selenium WebDriver - <a
+        href="https://drive.google.com/drive/folders/1l9L_HfGUAEk7-iWnM-psvKTB0oGPVaxR?usp=drive_link">Selenium
+        Notes</a></li>
+    <li>TestNG - <a
+        href="https://drive.google.com/drive/folders/1lV8Kseu7S3iKLxbT9dMjh0Wyl397BZdJ?usp=drive_link">TestNG
+        Concepts</a></li>
+    <li>Apache POI - <a
+        href="https://drive.google.com/drive/folders/1WZassV83tuRL8_woQZgiIfo-OBEEIYhz?usp=drive_link">Data-Driven
+        Testing</a></li>
+  </ul>
 </details>
 
 <details>
-<summary><b>🏗️ Automation Framework Design</b></summary>
-<ul>
-  <li>Hybrid Driven Framework - <a href="https://drive.google.com/drive/folders/18hghN22fa0zDmizvVctKY8SwaXo3u4C7?usp=drive_link">Hybrid Framework</a></li>
-  <li>Page Object Model (POM) - <a href="https://drive.google.com/drive/folders/1jIhGKazvoRdxgux_xq7ibIV5AP0V4pgZ?usp=drive_link">POM Design</a></li>
-</ul>
+  <summary><b>🏗️ Automation Framework Design</b></summary>
+  <ul>
+    <li>Hybrid Driven Framework - <a
+        href="https://drive.google.com/drive/folders/18hghN22fa0zDmizvVctKY8SwaXo3u4C7?usp=drive_link">Hybrid
+        Framework</a></li>
+    <li>Page Object Model (POM) - <a
+        href="https://drive.google.com/drive/folders/1jIhGKazvoRdxgux_xq7ibIV5AP0V4pgZ?usp=drive_link">POM Design</a>
+    </li>
+  </ul>
 </details>
 
 <details>
-<summary><b>📱 Mobile Automation</b></summary>
-<ul>
-  <li>Appium (Android & iOS) - <a href="https://github.com/Shubham00117/AppiumAppTesting_Android_And_IOS">Appium Repository</a></li>
-</ul>
+  <summary><b>📱 Mobile Automation</b></summary>
+  <ul>
+    <li>Appium (Android & iOS) - <a href="https://github.com/Shubham00117/AppiumAppTesting_Android_And_IOS">Appium
+        Repository</a></li>
+  </ul>
 </details>
 
 <details>
-<summary><b>⚙️ DevOps & Version Control</b></summary>
-<ul>
-  <li>Docker | Jenkins | Git - <a href="https://drive.google.com/drive/folders/1p68_pc780feVrsoZQTz0evBUnqYQ0ws1?usp=drive_link">DevOps for Automation</a></li>
-  <li>Git IDE Integrations - <a href="https://drive.google.com/drive/folders/1BxNAue9H80ZkHyXrrP1aKcEI7p_hicic?usp=drive_link">Eclipse & IntelliJ</a></li>
-</ul>
+  <summary><b>⚙️ DevOps & Version Control</b></summary>
+  <ul>
+    <li>Docker | Jenkins | Git - <a
+        href="https://drive.google.com/drive/folders/1p68_pc780feVrsoZQTz0evBUnqYQ0ws1?usp=drive_link">DevOps for
+        Automation</a></li>
+    <li>Git IDE Integrations - <a
+        href="https://drive.google.com/drive/folders/1BxNAue9H80ZkHyXrrP1aKcEI7p_hicic?usp=drive_link">Eclipse &
+        IntelliJ</a></li>
+  </ul>
 </details>
 
 <details>
-<summary><b>🥒 BDD & Advanced Automation</b></summary>
-<ul>
-  <li>Cucumber & BDD - <a href="https://drive.google.com/drive/folders/1ybcSFPEKxb5y3yV2RWrDTlQsXOLtENZ1?usp=drive_link">BDD with Cucumber</a></li>
-</ul>
+  <summary><b>🥒 BDD & Advanced Automation</b></summary>
+  <ul>
+    <li>Cucumber & BDD - <a
+        href="https://drive.google.com/drive/folders/1ybcSFPEKxb5y3yV2RWrDTlQsXOLtENZ1?usp=drive_link">BDD with
+        Cucumber</a></li>
+  </ul>
 </details>
 
 <details>
-<summary><b>🔗 API Automation</b></summary>
-<ul>
-  <li>API Testing Fundamentals - <a href="https://drive.google.com/drive/folders/12_zEnpSmAJMMkYEnKj-23Z7fSKJaAS_8?usp=drive_link">API Testing</a></li>
-  <li>Rest Assured - <a href="https://drive.google.com/drive/folders/1Ics5nHDM25RD_l7uRdYjdRbXx39sncJB?usp=drive_link">Rest Assured Automation</a></li>
-</ul>
+  <summary><b>🔗 API Automation</b></summary>
+  <ul>
+    <li>API Testing Fundamentals - <a
+        href="https://drive.google.com/drive/folders/12_zEnpSmAJMMkYEnKj-23Z7fSKJaAS_8?usp=drive_link">API Testing</a>
+    </li>
+    <li>Rest Assured - <a
+        href="https://drive.google.com/drive/folders/1Ics5nHDM25RD_l7uRdYjdRbXx39sncJB?usp=drive_link">Rest Assured
+        Automation</a></li>
+  </ul>
 </details>
 
 <details>
-<summary><b>🧑💻 Modern UI Automation</b></summary>
-<ul>
-  <li>TypeScript - <a href="https://drive.google.com/drive/folders/1AAJ3JKJ9gMeKKozk9bwzgE3pYfwbkJHb?usp=drive_link">TypeScript for Automation</a></li>
-  <li>Playwright - <a href="https://drive.google.com/drive/folders/1ScCp5l0WBNSkBGa8JKyL8Cr1uxTNwPGr?usp=drive_link">Playwright Automation</a></li>
-  <li>Cypress - <a href="https://drive.google.com/drive/folders/1tYrTaZsD0oEA_JYlPyyn3aLJ1TbAgFbc?usp=drive_link">Cypress Automation</a></li>
-  <li>Pytest - <a href="https://github.com/Shubham00117/pytest-ui-framework">Pytest Framework</a></li>
-</ul>
+  <summary><b>🧑💻 Modern UI Automation</b></summary>
+  <ul>
+    <li>TypeScript - <a
+        href="https://drive.google.com/drive/folders/1AAJ3JKJ9gMeKKozk9bwzgE3pYfwbkJHb?usp=drive_link">TypeScript for
+        Automation</a></li>
+    <li>Playwright - <a
+        href="https://drive.google.com/drive/folders/1ScCp5l0WBNSkBGa8JKyL8Cr1uxTNwPGr?usp=drive_link">Playwright
+        Automation</a></li>
+    <li>Cypress - <a
+        href="https://drive.google.com/drive/folders/1tYrTaZsD0oEA_JYlPyyn3aLJ1TbAgFbc?usp=drive_link">Cypress
+        Automation</a></li>
+    <li>Pytest - <a href="https://github.com/Shubham00117/pytest-ui-framework">Pytest Framework</a></li>
+  </ul>
 </details>
 
 <details>
-<summary><b>🤖 GenAI & MCP</b></summary>
-<ul>
-  <li>GenAI for QA - <a href="https://github.com/Shubham00117/GenAi">GenAI Repository</a></li>
-  <li>MCP Servers - <a href="https://github.com/Shubham00117/MCP-Server">MCP Server Repository</a></li>
-</ul>
+  <summary><b>🤖 GenAI & MCP</b></summary>
+  <ul>
+    <li>GenAI for QA - <a href="https://github.com/Shubham00117/GenAi">GenAI Repository</a></li>
+    <li>MCP Servers - <a href="https://github.com/Shubham00117/MCP-Server">MCP Server Repository</a></li>
+  </ul>
 </details>
 
 <details>
-<summary><b>🎯 Interview Preparation</b></summary>
-<ul>
-  <li>Interview Prep Material - <a href="https://drive.google.com/drive/folders/1Kst2_aNX-MAiZxyIRBkl_UghR7bcOE8F?usp=drive_link">Interview Notes</a></li>
-</ul>
+  <summary><b>🎯 Interview Preparation</b></summary>
+  <ul>
+    <li>Interview Prep Material - <a
+        href="https://drive.google.com/drive/folders/1Kst2_aNX-MAiZxyIRBkl_UghR7bcOE8F?usp=drive_link">Interview
+        Notes</a></li>
+  </ul>
 </details>
 
 <p>
   <i>📌 This course reflects my hands-on experience in real-world automation projects and focuses on writing clean,
-  maintainable, and scalable test solutions.</i>
+    maintainable, and scalable test solutions.</i>
 </p>
 
-<hr/>
+<hr />
 
 <h2>📈 GitHub Language Stats</h2>
 
@@ -533,22 +437,25 @@ who want to build strong foundations and progress toward industry-ready automati
   <img src="https://img.shields.io/badge/C%23-4%25-239120?style=for-the-badge" />
 </p>
 
-<hr/>
+<hr />
 
 <h2>🎓 Education & Journey</h2>
 
 <table>
   <tr>
     <td><b>2018-2023</b></td>
-    <td><b>Electrical Engineering</b> - B.Tech at Shivaji University. Built foundation in analytical thinking and system design.</td>
+    <td><b>Electrical Engineering</b> - B.Tech at Shivaji University. Built foundation in analytical thinking and system
+      design.</td>
   </tr>
   <tr>
     <td><b>2023</b></td>
-    <td><b>Quality Discovery</b> - Transitioned passion towards software testing and quality assurance methodologies.</td>
+    <td><b>Quality Discovery</b> - Transitioned passion towards software testing and quality assurance methodologies.
+    </td>
   </tr>
   <tr>
     <td><b>2023-2024</b></td>
-    <td><b>Advanced Computing</b> - PG-DAC at C-DAC ACTS Pune. Mastered enterprise-grade full-stack development and advanced software engineering.</td>
+    <td><b>Advanced Computing</b> - PG-DAC at C-DAC ACTS Pune. Mastered enterprise-grade full-stack development and
+      advanced software engineering.</td>
   </tr>
   <tr>
     <td><b>2024-Present</b></td>
@@ -556,97 +463,109 @@ who want to build strong foundations and progress toward industry-ready automati
   </tr>
 </table>
 
-<hr/>
+<hr />
 
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
 
   <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" title="Java"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" title="Python"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" title="C#"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" title="TypeScript"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" title="JavaScript"/>
-  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" title="Java" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" title="Python" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" title="C#" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"
+    title="TypeScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"
+    title="JavaScript" />
+  <img width="20" />
 
   <!-- Automation Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="32" title="Selenium WebDriver"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="32" title="Playwright"/>
-  <img width="10"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" height="32" title="Cypress"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="32" title="Pytest"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="32" title="Cucumber BDD"/>
-  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="32"
+    title="Selenium WebDriver" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="32"
+    title="Playwright" />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" height="32"
+    title="Cypress" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="32" title="Pytest" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="32"
+    title="Cucumber BDD" />
+  <img width="20" />
 
   <!-- Mobile Testing -->
-  <img src="https://cdn.simpleicons.org/appium" height="32" title="Appium"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="32" title="Android"/>
-  <img width="20"/>
+  <img src="https://cdn.simpleicons.org/appium" height="32" title="Appium" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="32"
+    title="Android" />
+  <img width="20" />
 
   <!-- CI/CD & Build -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="32" title="Jenkins"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="32" title="GitHub Actions"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="32" title="Maven"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" title="Docker"/>
-  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="32"
+    title="Jenkins" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="32"
+    title="GitHub Actions" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="32" title="Maven" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" title="Docker" />
+  <img width="20" />
 
   <!-- API Testing -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="32" title="Postman"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="32" title="Swagger"/>
-  <img width="10"/>
-  <img src="https://rest-assured.io/img/logo-transparent.png" height="32" title="Rest Assured"/>
-  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="32"
+    title="Postman" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="32"
+    title="Swagger" />
+  <img width="10" />
+  <img src="https://rest-assured.io/img/logo-transparent.png" height="32" title="Rest Assured" />
+  <img width="20" />
 
   <!-- Version Control -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" title="Git"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" title="GitHub"/>
-  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" title="Git" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" title="GitHub" />
+  <img width="20" />
 
   <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" title="MySQL"/>
-  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" title="MySQL" />
+  <img width="20" />
 
   <!-- Test Management -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="32" title="Jira"/>
-  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="32" title="Jira" />
+  <img width="20" />
 
   <!-- AI Tools -->
-  <img src="https://cdn.simpleicons.org/langchain" height="32" title="LangChain"/>
-  <img width="20"/>
+  <img src="https://cdn.simpleicons.org/langchain" height="32" title="LangChain" />
+  <img width="20" />
 
   <!-- Operating Systems -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="32" title="Windows"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" title="Linux"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="32" title="macOS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="32"
+    title="Windows" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" title="Linux" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="32" title="macOS" />
 
 </div>
 
-<br/>
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Shubham00117/Shubham00117/output/snake-dark.svg">
+    srcset="https://raw.githubusercontent.com/Shubham00117/Shubham00117/output/snake-dark.svg">
   <img src="https://raw.githubusercontent.com/Shubham00117/Shubham00117/output/snake.svg"
-       alt="GitHub contribution snake animation">
+    alt="GitHub contribution snake animation">
 </picture>
 
-<hr/>
+<hr />
 
 <h2>📬 Let's Connect</h2>
 
@@ -657,11 +576,11 @@ who want to build strong foundations and progress toward industry-ready automati
 </ul>
 
 <p>
-💬 Open to discussions on automation, framework design, GenAI in testing,
-and collaboration opportunities.
+  💬 Open to discussions on automation, framework design, GenAI in testing,
+  and collaboration opportunities.
 </p>
 
-<hr/>
+<hr />
 
 <h3 align="center">⭐ Thanks for visiting my GitHub profile!</h3>
 <p align="center"><b>Let's build quality — intelligently.</b></p>
