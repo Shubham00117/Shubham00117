@@ -166,13 +166,7 @@
   <img src="https://img.shields.io/badge/Auto--GPT-Autonomous-green" />
 </p>
 
-<ul>
-  <li>💡 <b>LangChain</b> - LLM orchestration for context-aware testing</li>
-  <li>🔄 <b>Langgraph</b> - Multi-agent workflow orchestration</li>
-  <li>🔌 <b>Model Context Protocol (MCP)</b> - AI agents for automation</li>
-  <li>👥 <b>CrewAI</b> - Collaborative AI agent systems</li>
-  <li>🤖 <b>Auto-GPT</b> - Autonomous task execution</li>
-</ul>
+
 
 <h4>� AI Capabilities</h4>
 <ul>
