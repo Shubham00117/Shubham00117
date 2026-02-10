@@ -425,136 +425,71 @@
     maintainable, and scalable test solutions.</i>
 </p>
 
-<hr />
 
-<h2>📈 GitHub Language Stats</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-45%25-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-26%25-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-24%25-3178C6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-6%25-F7DF1E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C%23-4%25-239120?style=for-the-badge" />
-</p>
-
-<hr />
-
-<h2>🎓 Education & Journey</h2>
-
-<table>
-  <tr>
-    <td><b>2018-2023</b></td>
-    <td><b>Electrical Engineering</b> - B.Tech at Shivaji University. Built foundation in analytical thinking and system
-      design.</td>
-  </tr>
-  <tr>
-    <td><b>2023</b></td>
-    <td><b>Quality Discovery</b> - Transitioned passion towards software testing and quality assurance methodologies.
-    </td>
-  </tr>
-  <tr>
-    <td><b>2023-2024</b></td>
-    <td><b>Advanced Computing</b> - PG-DAC at C-DAC ACTS Pune. Mastered enterprise-grade full-stack development and
-      advanced software engineering.</td>
-  </tr>
-  <tr>
-    <td><b>2024-Present</b></td>
-    <td><b>Innovation Leadership</b> - Leading AI-powered testing initiatives and mentoring aspiring SDETs.</td>
-  </tr>
-</table>
-
-<hr />
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="left">
-
+<p align="left">
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" title="Java" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" title="Python" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" title="C#" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"
     title="TypeScript" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"
     title="JavaScript" />
-  <img width="20" />
-
   <!-- Automation Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="32"
     title="Selenium WebDriver" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="32"
     title="Playwright" />
-  <img width="10" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" height="32"
     title="Cypress" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="32" title="Pytest" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="32"
     title="Cucumber BDD" />
-  <img width="20" />
-
   <!-- Mobile Testing -->
   <img src="https://cdn.simpleicons.org/appium" height="32" title="Appium" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="32"
     title="Android" />
-  <img width="20" />
-
   <!-- CI/CD & Build -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="32"
     title="Jenkins" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="32"
     title="GitHub Actions" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="32" title="Maven" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" title="Docker" />
-  <img width="20" />
-
   <!-- API Testing -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="32"
     title="Postman" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="32"
     title="Swagger" />
-  <img width="10" />
   <img src="https://rest-assured.io/img/logo-transparent.png" height="32" title="Rest Assured" />
-  <img width="20" />
-
   <!-- Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" title="Git" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" title="GitHub" />
-  <img width="20" />
-
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" title="MySQL" />
-  <img width="20" />
-
   <!-- Test Management -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="32" title="Jira" />
-  <img width="20" />
-
   <!-- AI Tools -->
-  <img src="https://cdn.simpleicons.org/langchain" height="32" title="LangChain" />
-  <img width="20" />
 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" height="32"
+    title="Google Gemini" />
+  <img src="https://cdn.simpleicons.org/anthropic/181818" height="32" title="Claude (Anthropic)" />
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="32" title="LangChain" />
+  <img src="https://cdn.simpleicons.org/ollama" height="32" title="Ollama" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="32" title="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32"
+    title="TensorFlow" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="32" title="Hugging Face" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="32" title="n8n Workflow Automation" />
   <!-- Operating Systems -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="32"
     title="Windows" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" title="Linux" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="32" title="macOS" />
-
-</div>
+</p>
 
 <br />
 
