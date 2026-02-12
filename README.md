@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <b>Shubham Shinde</b></h1>
 
 <h3 align="center">
-  QA Automation Engineer | GenAI-Driven Testing | Engineering Quality at Scale
+  QA Automation Engineer | Agentic QA Workflows | Engineering Quality at Scale
 </h3>
 
 <p align="left">
@@ -20,17 +20,12 @@
 
 <h2>🙋‍♂️ About Me</h2>
 
-<p><b>QA Automation Engineer | ~3 Years Experience | PG-DAC (C-DAC)</b></p>
+<p><b>QA Automation Engineer | 3+ Years Experience | PG-DAC (C-DAC)</b></p>
 
 <p>
-  I design and build <b>scalable, maintainable, and CI-ready automation frameworks</b> across UI and API layers.
-  My approach goes beyond traditional testing — I focus on <b>engineering quality into every stage of the SDLC</b>,
-  now accelerated with <b>GenAI-powered QA workflows</b>.
-</p>
-
-<p>
-  I enjoy working at the intersection of <b>Automation, Framework Architecture, and AI</b>,
-  where reliability, productivity, and intelligent testing converge.
+  I architect <b>scalable, CI-integrated automation frameworks</b> across UI, API, and Mobile layers —
+  engineering quality into every stage of the SDLC. Now building <b>agentic QA workflows</b> with
+  LangChain, LangGraph, and MCP Servers to drive intelligent, autonomous test orchestration.
 </p>
 
 <hr />
@@ -38,10 +33,10 @@
 <h2>📊 At a Glance</h2>
 
 <p align="center">
-  📅 <b>3+ Years Experience</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  💻 <b>15+ Technologies</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  📁 <b>12+ Projects</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🤖 <b>6+ AI Tools</b>
+  📅 <b>3+ Years in QA Engineering</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🏗️ <b>12+ Automation Frameworks Built</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  &#x1F680; <b>CI/CD Pipelines Architected</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🤖 <b>Agentic AI Workflows in Production</b>
 </p>
 
 <hr />
@@ -52,36 +47,36 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🏗️ Enterprise Test Architecture</h3>
-      <p><i>Expert Architect</i></p>
-      <p>Architecting scalable frameworks with Playwright and Selenium, integrating AI-powered self-healing and
-        autonomous multi-browser execution.</p>
+      <p><i>Framework Architect</i></p>
+      <p>Designing production-grade frameworks with Selenium and Playwright using POM, BDD, and Hybrid patterns —
+        with parallel cross-browser execution and CI-ready scalability.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Agentic Engineering (MCP)</h3>
-      <p><i>AI Strategist</i></p>
-      <p>Building intelligent agents using LangChain, LangGraph, and Model Context Protocol (MCP Servers) for
-        context-aware testing and automated reasoning.</p>
+      <h3>🤖 Agentic QA Engineering</h3>
+      <p><i>AI Engineer</i></p>
+      <p>Building intelligent QA agents using LangChain, LangGraph, and MCP Servers for automated test generation,
+        failure analysis, and context-aware quality orchestration.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>⚡ AI Dev & Workflow Ops</h3>
       <p><i>Efficiency Leader</i></p>
-      <p>Optimizing delivery with Windsurf, Google Antigravity, and Claude Code, leveraging n8n for complex AI-driven
-        workflow automation.</p>
+      <p>Accelerating development with GitHub Copilot, Windsurf, and Cursor IDE, automating CI/QA pipelines
+        using n8n for end-to-end workflow orchestration.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🔒 Local AI & Private LLMs</h3>
       <p><i>Privacy First</i></p>
-      <p>Deploying secure, offline intelligence using Ollama and LM Studio, ensuring data privacy while maintaining
-        high-performance local inference.</p>
+      <p>Running secure, offline LLM inference with Ollama and LM Studio for test generation and analysis in
+        enterprise environments where data cannot leave the network.</p>
     </td>
   </tr>
 </table>
 
 <hr />
 
-<h2>🧠 What I Do</h2>
+<h2>⚙️ What I Do</h2>
 
 <ul>
   <li>🎯 <b>Enterprise Test Automation</b> - Designing scalable frameworks using Selenium, Playwright, and Cypress with
@@ -94,10 +89,10 @@
     reliability under high load</li>
   <li>🚀 <b>CI/CD Pipeline Integration</b> - Implementing automated test execution in Jenkins and GitHub Actions for
     continuous quality feedback</li>
-  <li>🤖 <b>AI-Powered Testing</b> - Leveraging GenAI for intelligent test generation, self-healing automation, and
-    context-aware test coverage</li>
-  <li>🧪 <b>Quality Engineering</b> - Advocating shift-left testing, test data management, and quality metrics to embed
-    testing throughout SDLC</li>
+  <li>🤖 <b>AI Automation Workflows</b> - Architecting agentic orchestration pipelines with LangChain and LangGraph,
+    leveraging MCP Servers for context-aware automation and intelligent task reasoning</li>
+  <li>🧪 <b>Quality Engineering</b> - Driving shift-left strategies with agentic quality gates, test data management,
+    and data-driven quality metrics throughout the SDLC</li>
 </ul>
 
 <hr />
@@ -166,41 +161,6 @@
   <img src="https://img.shields.io/badge/Auto--GPT-Autonomous-green" />
 </p>
 
-
-
-
-
-<hr />
-
-<h2>🤖 AI Lab Ecosystem</h2>
-
-<table>
-  <tr>
-    <td width="30%"><b>Generative AI Platforms</b></td>
-    <td>ChatGPT • Google Gemini • Claude</td>
-  </tr>
-  <tr>
-    <td width="30%"><b>AI Code Assistants</b></td>
-    <td>GitHub Copilot • Windsurf IDE • Google Antigravity • Claude Code • LM Studio</td>
-  </tr>
-  <tr>
-    <td width="30%"><b>AI Agent Frameworks</b></td>
-    <td>LangChain • Langgraph • Auto-GPT • Model Context Protocol (MCP) • CrewAI</td>
-  </tr>
-  <tr>
-    <td width="30%"><b>AI-Powered Testing Tools</b></td>
-    <td>TestRigor • Testim • Functionize • Mabl</td>
-  </tr>
-  <tr>
-    <td width="30%"><b>Offline / Local LLM Tools</b></td>
-    <td>Ollama • LM Studio • GPT4All</td>
-  </tr>
-  <tr>
-    <td width="30%"><b>AI Workflow Automation</b></td>
-    <td>n8n</td>
-  </tr>
-</table>
-
 <hr />
 
 <h2>📂 Featured Projects</h2>
@@ -212,11 +172,10 @@
 <p><b>Tech Stack:</b> Java | Selenium | TestNG | Maven | Jenkins | POM</p>
 
 <ul>
-  <li>Automated core business flows (Login, Search, Cart, Wishlist, Checkout)</li>
-  <li>Data-driven testing using Apache POI</li>
-  <li>CI execution via Jenkins</li>
-  <li>TestNG + Extent Reports integration</li>
-  <li>Clean, scalable, production-ready framework design</li>
+  <li>End-to-end business flows: Login, Search, Cart, Wishlist, Checkout</li>
+  <li>Data-driven execution via Apache POI with CI pipeline through Jenkins</li>
+  <li>TestNG reporting with Extent Reports + singleton WebDriver management</li>
+  <li>Custom retry listeners and explicit wait strategies for flakiness reduction</li>
 </ul>
 
 <p>
@@ -440,13 +399,9 @@
     title="Cucumber BDD" />
   <!-- Mobile Testing -->
   <img src="https://cdn.simpleicons.org/appium" height="32" title="Appium" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="32"
-    title="Android" />
   <!-- CI/CD & Build -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="32"
     title="Jenkins" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="32"
-    title="GitHub Actions" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="32" title="Maven" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" title="Docker" />
   <!-- API Testing -->
@@ -460,8 +415,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" title="GitHub" />
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" title="MySQL" />
-  <!-- Test Management -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="32" title="Jira" />
   <!-- AI Tools -->
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" height="32"
@@ -469,9 +422,6 @@
   <img src="https://cdn.simpleicons.org/anthropic/181818" height="32" title="Claude (Anthropic)" />
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="32" title="LangChain" />
   <img src="https://cdn.simpleicons.org/ollama" height="32" title="Ollama" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="32" title="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32"
-    title="TensorFlow" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="32" title="Hugging Face" />
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="32" title="n8n Workflow Automation" />
   <!-- Operating Systems -->
@@ -501,11 +451,9 @@
 </ul>
 
 <p>
-  💬 Open to discussions on automation, framework design, GenAI in testing,
-  and collaboration opportunities.
+  💬 Open to discussions on test architecture, agentic QA workflows, and AI-driven quality engineering.
 </p>
 
 <hr />
 
-<h3 align="center">⭐ Thanks for visiting my GitHub profile!</h3>
-<p align="center"><b>Let's build quality — intelligently.</b></p>
+<p align="center"><b>Engineering quality — intelligently.</b></p>
