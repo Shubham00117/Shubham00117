@@ -410,7 +410,7 @@
     title="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="32"
     title="Swagger" />
-  <img src="https://avatars.githubusercontent.com/u/1936980?s=200&v=4" height="32" title="Rest Assured" />
+
   <!-- Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" title="GitHub" />
