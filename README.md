@@ -36,7 +36,7 @@
   📅 <b>3+ Years in QA Engineering</b> &nbsp;&nbsp;|&nbsp;&nbsp;
   🏗️ <b>12+ Automation Frameworks Built</b> &nbsp;&nbsp;|&nbsp;&nbsp;
   &#x1F680; <b>CI/CD Pipelines Architected</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🤖 <b>Agentic AI Workflows in Production</b>
+  🤖 <b>Agentic AI Workflows</b>
 </p>
 
 <hr />
