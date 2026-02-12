@@ -13,7 +13,8 @@
     src="https://img.shields.io/badge/Automation-Selenium%20%7C%20Playwright%20%7C%20Cypress%20%7C%20Appium-blueviolet" />
   <img src="https://img.shields.io/badge/API-Rest%20Assured%20%7C%20Postman-orange" />
   <img src="https://img.shields.io/badge/CI%2FCD-Jenkins%20%7C%20GitHub%20Actions-success" />
-  <img src="https://img.shields.io/badge/GenAI-QA%20Automation%20%7C%20Prompt%20Engineering-informational" />
+  <img
+    src="https://img.shields.io/badge/GenAI-Agentic%20QA%20%7C%20LangChain%20%7C%20LangGraph%20%7C%20Prompt%20Engineering-informational" />
 </p>
 
 <hr />
@@ -34,8 +35,8 @@
 
 <p align="center">
   📅 <b>3+ Years in QA Engineering</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🏗️ <b>12+ Automation Frameworks Built</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  &#x1F680; <b>CI/CD Pipelines Architected</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  💻 <b>15+ Technologies</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🏗️ <b>CI/CD Pipelines Architected</b> &nbsp;&nbsp;|&nbsp;&nbsp;
   🤖 <b>Agentic AI Workflows</b>
 </p>
 
@@ -409,7 +410,7 @@
     title="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="32"
     title="Swagger" />
-  <img src="https://rest-assured.io/img/logo-transparent.png" height="32" title="Rest Assured" />
+  <img src="https://avatars.githubusercontent.com/u/1936980?s=200&v=4" height="32" title="Rest Assured" />
   <!-- Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" title="GitHub" />
