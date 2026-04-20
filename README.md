@@ -21,7 +21,7 @@
 
 <h2>🙋‍♂️ About Me</h2>
 
-<p><b>QA Automation Engineer | 3+ Years Experience | PG-DAC (C-DAC)</b></p>
+<p><b> Automation Test Engineer | 3+ Years Experience | Electrical Engineer</b></p>
 
 <p>
   I architect <b>scalable, CI-integrated automation frameworks</b> across UI, API, and Mobile layers —
